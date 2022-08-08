@@ -1,0 +1,6 @@
+**/target
+**/old
+.*.swp
+.DS_Store
+Cargo.lock
+.vscode

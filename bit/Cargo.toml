@@ -1,0 +1,12 @@
+[package]
+name = "bit"
+version = "0.1.0"
+authors = ["Edward Kmett <ekmett@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0.140", features = ["derive"] }
+succinct = "0.5.2"
+num-traits = "0.2.15"
+packed_simd = { version = "0.3.8", package = "packed_simd_2" }
+

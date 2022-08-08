@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "auth",
+  "bit",
+  "fun",
+  "sets",
+]

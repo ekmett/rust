@@ -1,0 +1,5 @@
+[package]
+name = "sets"
+version = "0.1.0"
+authors = ["Edward Kmett <ekmett@gmail.com>"]
+edition = "2021"
